@@ -1,5 +1,5 @@
 # metabook-api
-基于(https://metabook.ai)[https://metabook.ai]所提供AI小说生成能力而提供的API接口和使用说明
+基于[https://metabook.ai](https://metabook.ai)所提供AI小说生成能力而提供的API接口和使用说明
 
 我们所提供的API涵盖从小说设定生成、小说创建、具体章节生成等AI小说创作全流程。
 在此之外，也提供了包括内容改写、内容扩写、内容修改、写作建议等多种面向AI文字创作的接口，用户也可以使用这些接口自行开发其它工具
